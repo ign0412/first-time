@@ -1,2 +1,1 @@
-# first-time
-curso henry
+Este proyecto es una prueba
